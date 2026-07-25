@@ -7,7 +7,7 @@ package com.mycompany.proyectomundial;
 public class Jugador {
     private String nombre;
     private int dorsal;
-    private String posicion; // Ej: "Portero", "Defensa", "Medio", "Delantero"
+    private String posicion; 
     private int goles;
     private int tarjetasAmarillas;
     private int tarjetasRojas;
